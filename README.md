@@ -1,4 +1,4 @@
-# el.el
+
 <section class="about_section">
     <div class="container  ">
       <div class="row">
